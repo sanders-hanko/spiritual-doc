@@ -1,2 +1,4 @@
 Ini adalah file untuk belajar GitHub
-Hanya sebagai uji coba.
+- Hanya sebagai uji coba.
+- Menambahkan poin ke tiga dan bullet.
+- Ini poin ke-tiga
